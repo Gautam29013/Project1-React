@@ -1,9 +1,9 @@
-import React from 'react'
+import Counter from './components/counterr'
 
 const App = () => {
   return (
     <div>
-      <Counterr />
+      <Counter />
     </div>
   )
 }
