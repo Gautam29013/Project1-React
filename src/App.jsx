@@ -1,8 +1,9 @@
-import Counter from './components/counterr'
+import React from 'react'
+import Counter from './components/counter.jsx'
 
 const App = () => {
   return (
-    <div>
+    <div className="app-container">
       <Counter />
     </div>
   )
