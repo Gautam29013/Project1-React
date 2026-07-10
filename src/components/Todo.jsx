@@ -20,6 +20,7 @@ const Todo = () => {
     setTodos(todos.filter((todo) => todo.id !== id))
   }
 
+  
   return (
     <section>
       <h2>Todo</h2>
