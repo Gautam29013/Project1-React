@@ -10,10 +10,10 @@ const ToggleBackgroundColor = () => {
   return (
     <div
       style={{
-        maxWidth: '300px',
-        margin: '20px auto',
-        padding: '20px',
-        borderRadius: '10px',
+        maxWidth: '1000px',
+        margin: '80px auto',
+        padding: '200px',
+        borderRadius: '20px',
         textAlign: 'center',
         backgroundColor: isDark ? '#111827' : '#f3f4f6',
         color: isDark ? '#f9fafb' : '#111827',
